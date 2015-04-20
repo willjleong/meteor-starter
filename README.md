@@ -13,10 +13,13 @@ A Meteor boilerplate with a lot packed in. Written in Coffeescript. Converted to
 
 ### Setup ####
 
+Follow these steps to create your own project with an initialized local git repo
 ```
 git clone https://github.com/yogiben/meteor-starter.git myapp
 cd myapp
 meteor
+rm -rf .git
+git init
 ```
 
 ### What's included ###
