@@ -2,7 +2,7 @@
  * Created by williamleong on 4/20/15.
  */
 
-this.Config = {
+Config = {
   name: 'My App',
   title: 'Make Meteor Apps. Fast.',
   subtitle: 'A boilerplate from MeteorFactory.io',

@@ -89,4 +89,4 @@ Schemas.User = new SimpleSchema({
 
 Meteor.users.attachSchema(Schemas.User);
 
-this.StarterSchemas = Schemas;
+StarterSchemas = Schemas;

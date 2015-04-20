@@ -2,7 +2,7 @@
  * Created by williamleong on 4/20/15.
  */
 
-this.NCSchemas = {};
+NCSchemas = {};
 
 NCSchemas.updatePassword = new SimpleSchema({
   old: {

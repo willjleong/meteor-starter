@@ -2,7 +2,7 @@
  * Created by williamleong on 4/20/15.
  */
 
-this.App = {
+App = {
   alertSuccess: function(message) {
     Session.set('alertSuccess', message);
     return Session.set('alertError', '');

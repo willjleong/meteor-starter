@@ -2,7 +2,7 @@
  * Created by williamleong on 4/20/15.
  */
 
-this.Attachments = new FS.Collection("Attachments", {
+Attachments = new FS.Collection("Attachments", {
   stores: [
     new FS.Store.GridFS("attachments", {
       transformWrite: function(fileObj, readStream, writeStream) {

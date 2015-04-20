@@ -2,7 +2,7 @@
  * Created by williamleong on 4/20/15.
  */
 
-this.ProfilePictures = new FS.Collection("profilePictures", {
+ProfilePictures = new FS.Collection("profilePictures", {
   stores: [
     new FS.Store.GridFS("images", {
       transformWrite: function(fileObj, readStream, writeStream) {

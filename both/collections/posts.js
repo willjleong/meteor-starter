@@ -2,7 +2,7 @@
  * Created by williamleong on 4/20/15.
  */
 
-this.Posts = new Meteor.Collection('posts');
+Posts = new Meteor.Collection('posts');
 
 Schemas.Posts = new SimpleSchema({
   title: {
