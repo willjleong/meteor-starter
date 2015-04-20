@@ -1,7 +1,7 @@
-Meteor Starter
+Meteor Starter (Pure Javascript)
 ==============
 
-A Meteor boilerplate with a lot packed in. Written in Coffeescript.
+A Meteor boilerplate with a lot packed in. Written in Coffeescript. Converted to Pure Javascript for non-coffee drinkers
 
 [Demo](http://starter.meteor.com) - For admin, log in with: `starter@meteorfactory.io` and `meteorrocks`
 
