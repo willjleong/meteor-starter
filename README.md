@@ -39,11 +39,11 @@ meteor
 Detailed tutorails coming soon.
 
 First steps:
-* Edit basic setting in `/both/_config/_config.coffee`
+* Edit basic setting in `/both/_config/_config.js`
 * Delete / modify HTML in `/client/views/home.html`
 * Update colors in `/client/style/bootstrap-variables.less`
 * Add / edit collections in `/both/collections/`
-* Create routes and views in `/both/router.coffee` and `/client/views` folder
+* Create routes and views in `/both/router.js` and `/client/views` folder
 
 ### Screenshots ###
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/meteor-starter-5.png)
