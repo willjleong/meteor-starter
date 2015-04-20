@@ -15,7 +15,7 @@ A Meteor boilerplate with a lot packed in. Written in Coffeescript. Converted to
 
 Follow these steps to create your own project with an initialized local git repo then run the app
 ```
-git clone https://github.com/yogiben/meteor-starter.git myapp
+git clone https://github.com/willjleong/meteor-starter-pure-js.git myapp
 cd myapp
 rm -rf .git
 git init
