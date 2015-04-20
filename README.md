@@ -3,7 +3,7 @@ Meteor Starter (Pure Javascript)
 
 A Meteor boilerplate with a lot packed in. Written in Coffeescript. Converted to Pure Javascript for non-coffee drinkers.
 
-[Origianl Github Repo] https://github.com/yogiben/meteor-starter
+[Origianl Github Repo](https://github.com/yogiben/meteor-starter)
 
 [Demo](http://starter.meteor.com) - For admin, log in with: `starter@meteorfactory.io` and `meteorrocks`
 
